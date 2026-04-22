@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a5e,100:0a6a8a&height=200&section=header&text=Welcome,%20let's%20build%20something.&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2aafc0,100:2dcea0&height=200&section=header&text=Welcome,%20let's%20build%20something.&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # About Me
 2025 B.S. Computer Science grad working in IT and always tinkering with something on the side.
