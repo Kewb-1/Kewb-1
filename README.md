@@ -9,7 +9,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=150&height=30&lines=Tech+Stack)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
+## Tech Stack
 
 **Comfortable with:**
 JavaScript · HTML/CSS · Firebase · Firestore · React · Three.js · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
@@ -26,19 +27,22 @@ C# · C++ · Python
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=220&height=30&lines=Tools+I+Reach+For)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
+## Tools I Reach For
 Claude · VS Code · Google Research · Codecademy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=170&height=30&lines=What+I'm+Up+To)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
+## What I'm Up To
 - Working in IT and picking up new skills on the job to make operations continuously more efficient
 - Tinkering with personal projects when time allows
 - Always learning something new
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=80&height=30&lines=Stats)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
+## Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
 
