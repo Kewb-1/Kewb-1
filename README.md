@@ -10,8 +10,9 @@
 **Comfortable with:**
 JavaScript · HTML/CSS · Firebase · Firestore · React · Three.js · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,threejs,materialui,googlecloud,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,threejs,materialui,vscode)](https://skillicons.dev)
 
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
