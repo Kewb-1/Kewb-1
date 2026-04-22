@@ -5,9 +5,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## Tech Stack
+# Tech Stack
 
-### **Comfortable with:**
+## **Comfortable with:**
 JavaScript · HTML/CSS · Firebase · Firestore · React · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,materialui,vscode)](https://skillicons.dev)
@@ -18,14 +18,14 @@ JavaScript · HTML/CSS · Firebase · Firestore · React · Material UI · shadc
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&pause=300&color=21262d&width=435&height=10&lines=─────────────────────────────────────────;·····────────────────────────────────·····;··········──────────────────────────··········)
 
-### **Dabbled in:**
+## **Dabbled in:**
 C# · C++ · Python · Three.js
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,threejs)](https://skillicons.dev)
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&pause=300&color=21262d&width=435&height=10&lines=─────────────────────────────────────────;·····────────────────────────────────·····;··········──────────────────────────··········)
 
-### **Beyond the screen:**
+## **Beyond the screen:**
 3D Printing · AutoCAD
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
@@ -33,13 +33,13 @@ C# · C++ · Python · Three.js
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## Tools I Reach For
+# Tools I Reach For
 
 Claude · VS Code · Google Research · Codecademy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## What I'm Up To
+# What I'm Up To
 
 - Working in IT and picking up new skills on the job to make operations continuously more efficient
 - Tinkering with personal projects when time allows
@@ -47,7 +47,7 @@ Claude · VS Code · Google Research · Codecademy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## Stats
+# Stats
 
 <div align="center">
 
