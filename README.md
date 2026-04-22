@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Kewb-1/Kewb-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. Computer Science grad working in IT and always building something on the side.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Comfortable with:**
+JavaScript · HTML/CSS · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some experience with:**
+C# · C++
+
+**Beyond the screen:**
+3D Printing · AutoCAD
+
+## 📌 What I'm up to
+- Working in IT and picking up new skills on the job
+- Tinkering with personal projects when time allows
+- Always learning something new
