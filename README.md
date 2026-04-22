@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome%2C+let's+build+something.;CS+Grad+%C2%B7+IT+Pro+%C2%B7+Maker)](https://git.io/typing-svg)
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&animation=fadeIn)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME.YOURUSERNAME)
