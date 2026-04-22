@@ -12,7 +12,7 @@ C# · C++ · Python
 **Beyond the screen:**
 3D Printing · AutoCAD
 
-## 📌 What I'm up to
+## What I'm up to
 - Working in IT and picking up new skills on the job to make operations continuously more efficient
 - Tinkering with personal projects when time allows
 - Always learning something new
