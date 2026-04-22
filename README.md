@@ -15,7 +15,7 @@ JavaScript · HTML/CSS · Firebase · Firestore · React · Three.js · Material
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,threejs,materialui,vscode)](https://skillicons.dev)
 
-\n
+---
 **Dabbled in:**
 
 C# · C++ · Python
