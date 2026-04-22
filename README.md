@@ -9,7 +9,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
 ## Tech Stack
 
 **Comfortable with:**
@@ -27,7 +26,6 @@ C# · C++ · Python
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
 ## Tools I Reach For
 Claude · VS Code · Google Research · Codecademy
 
@@ -40,8 +38,6 @@ Claude · VS Code · Google Research · Codecademy
 - Always learning something new
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
 ## Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
