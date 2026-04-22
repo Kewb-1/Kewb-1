@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=1500&section=header&text=Welcome,%20let's%20build%20something.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome,%20let's%20build%20something.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kewb-1.Kewb-1)
 
