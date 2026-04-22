@@ -4,7 +4,7 @@
 
 ---
 
-B.S. Computer Science grad working in IT and always building something on the side.
+# B.S. Computer Science grad working in IT and always building something on the side.
 
 ---
 
