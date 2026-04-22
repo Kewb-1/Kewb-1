@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome,%20let's%20build%20something.&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME.YOURUSERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kewb-1.Kewb-1)
 
 ---
 
@@ -26,7 +26,7 @@ C# · C++ · Python
 ---
 
 ## 🧰 Tools I Reach For
-Claude · VS Code · Google
+Claude · VS Code · Google Research · Codecademy
 
 ---
 
@@ -39,13 +39,13 @@ Claude · VS Code · Google
 
 ## 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/Kewb-1/Kewb-1/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
