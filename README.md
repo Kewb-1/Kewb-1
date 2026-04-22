@@ -2,10 +2,14 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kewb-1.Kewb-1)
 
-## ◈ About Me
+## About Me
 2025 B.S. Computer Science grad working in IT and always building something on the side.
 
-## ⬡ Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=39D353&width=435&lines=always+building...;always+learning...;always+shipping...;it+pro+by+day...;maker+by+night...)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=150&height=30&lines=Tech+Stack)
 
 **Comfortable with:**
 JavaScript · HTML/CSS · Firebase · Firestore · React · Three.js · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
@@ -20,15 +24,21 @@ C# · C++ · Python
 **Beyond the screen:**
 3D Printing · AutoCAD
 
-## ◎ Tools I Reach For
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=220&height=30&lines=Tools+I+Reach+For)
 Claude · VS Code · Google Research · Codecademy
 
-## ◉ What I'm up to
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=170&height=30&lines=What+I'm+Up+To)
 - Working in IT and picking up new skills on the job to make operations continuously more efficient
 - Tinkering with personal projects when time allows
 - Always learning something new
 
-## ◈ Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=99999&color=39D353&width=80&height=30&lines=Stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
 
