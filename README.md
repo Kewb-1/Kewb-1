@@ -35,6 +35,7 @@ Claude · VS Code · Google Research · Codecademy
 - Always learning something new
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 ## Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
