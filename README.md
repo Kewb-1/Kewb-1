@@ -3,7 +3,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kewb-1.Kewb-1)
 
 ---
-# B.S. Computer Science grad working in IT and always building something on the side.
+# 2025 B.S. Computer Science grad working in IT and always building something on the side.
 ---
 
 ## 🛠️ Tech Stack
