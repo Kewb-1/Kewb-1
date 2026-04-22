@@ -9,7 +9,7 @@
 # Tech Stack
 
 ## **Comfortable with:**
-JavaScript · HTML/CSS · Firebase · Firestore · React · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
+JavaScript · HTML/CSS · Firebase · Firestore · React · Material UI · shadcn/ui · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API · API Use Fundamentals
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,materialui,vscode)](https://skillicons.dev)
 
