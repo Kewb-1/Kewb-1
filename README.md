@@ -47,7 +47,7 @@ Claude · VS Code · Google Research · Codecademy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-# Stats
+# My Git Stats
 
 <div align="center">
 
