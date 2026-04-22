@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kewb-1.Kewb-1)
 
-## About Me
+# About Me
 2025 B.S. Computer Science grad working in IT and always building something on the side.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
