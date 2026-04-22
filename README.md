@@ -43,7 +43,7 @@ Claude · VS Code · Google Research · Codecademy
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/Kewb-1/Kewb-1/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+[![Play Snake](https://img.shields.io/badge/🐍%20Play%20Snake-Click%20Here-brightgreen?style=for-the-badge)](https://kewb-1.github.io/Kewb-1)
 
 ---
 
