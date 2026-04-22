@@ -29,7 +29,6 @@ Claude · VS Code · Google Research · Codecademy
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=400&color=39D353&width=100&height=15&lines=●·····;··●···;····●·;······●)
 ## What I'm Up To
 - Working in IT and picking up new skills on the job to make operations continuously more efficient
 - Tinkering with personal projects when time allows
