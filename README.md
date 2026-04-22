@@ -3,7 +3,7 @@
 # About Me
 2025 B.S. Computer Science grad working in IT and always tinkering with something on the side.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # Tech Stack
 
@@ -31,7 +31,7 @@ C# · C++ · Python · Three.js
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-333333?style=flat-square&logo=printables&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d88&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # Tools I Reach For
 
