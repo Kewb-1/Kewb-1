@@ -29,6 +29,7 @@ C# · C++ · Python
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-333333?style=flat-square&logo=printables&logoColor=white)
 
+
 ## Tools I Reach For
 
 Claude · VS Code · Google Research · Codecademy
