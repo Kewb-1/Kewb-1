@@ -31,13 +31,13 @@ C# · C++ · Python · Three.js
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-333333?style=flat-square&logo=printables&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # Tools I Reach For
 
 Claude · VS Code · Google Research · Codecademy
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # What I'm Up To
 
@@ -45,7 +45,7 @@ Claude · VS Code · Google Research · Codecademy
 - Tinkering with personal projects when time allows
 - Always learning something new
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # Git Stats
 
@@ -55,4 +55,4 @@ Claude · VS Code · Google Research · Codecademy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ddfc0,100:3bc5d8&height=100&section=footer" width="100%"/>
