@@ -41,10 +41,4 @@ Claude · VS Code · Google Research · Codecademy
 
 ---
 
-## 🐍 Contribution Snake
-
-[![Play Snake](https://img.shields.io/badge/🐍%20Play%20Snake-Click%20Here-brightgreen?style=for-the-badge)](https://kewb-1.github.io/Kewb-1)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
