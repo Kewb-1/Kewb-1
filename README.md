@@ -25,7 +25,7 @@ C# · C++ · Python · Three.js
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&pause=300&color=21262d&width=435&height=10&lines=─────────────────────────────────────────;·····────────────────────────────────·····;··········──────────────────────────··········)
 
-**Beyond the screen:**
+### **Beyond the screen:**
 3D Printing · AutoCAD
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white)
