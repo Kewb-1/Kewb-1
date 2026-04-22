@@ -43,6 +43,10 @@ Claude · VS Code · Google Research · Codecademy
 
 ## Stats
 
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kewb-1&theme=dark)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
