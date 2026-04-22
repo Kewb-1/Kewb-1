@@ -5,8 +5,6 @@
 ## About Me
 2025 B.S. Computer Science grad working in IT and always building something on the side.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=39D353&width=435&lines=always+building...;always+learning...;always+shipping...;it+pro+by+day...;maker+by+night...)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## Tech Stack
