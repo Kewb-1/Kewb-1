@@ -17,11 +17,6 @@ JavaScript · HTML/CSS · Firebase · Firestore · React · Material UI · shadc
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-<div align="center">
-  
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&pause=300&color=21262d&width=435&height=10&lines=────────────────────────────────────────────;──────────────────────────────────────;────────────────────────────────;──────────────────────────;────────────────────;──────────────;──────;)
-
-</div>
 
 ## **Dabbled in:**
 C# · C++ · Python · Three.js
