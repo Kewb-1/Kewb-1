@@ -3,7 +3,7 @@
 # About Me
 2025 B.S. Computer Science grad working in IT and always tinkering with something on the side.
 
-[![](https://img.shields.io/badge/Kewb1-<-Inactive_School_Account-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Kewb1)
+[![](https://img.shields.io/badge/Kewb1-Inactive_School_Account-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Kewb1)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ddfc0,100:3bc5d8&height=2" width="100%"/>
 
 # Tech Stack
