@@ -1,8 +1,11 @@
-# Loading README.md... ▓▓▓▓▓░░ 71%
+# ╔══════════════════════════════════════╗
+# ║   > SYSTEM ONLINE                    ║
+# ║   > USER: cs_grad · it_pro · maker   ║
+# ╚══════════════════════════════════════╝
 
 B.S. Computer Science grad working in IT and always building something on the side.
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Comfortable with:**
 JavaScript · HTML/CSS · Firebase · Firestore · React · Google APIs · Pipedream · Zendesk API · Claude API · UniFi API
 
